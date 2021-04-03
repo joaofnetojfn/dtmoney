@@ -65,7 +65,7 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # :construction_worker: Como rodar
 ```bash
 # Clone o Repositoria
-$ git clone https://github.com/joaofnetojfn/ignite-template-reactjs-conceitos-do-react.git
+$ git clone https://github.com/joaofnetojfn/dtmoney.git
 
 ### 💻 Rode o Project Web
 
