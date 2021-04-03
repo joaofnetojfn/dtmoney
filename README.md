@@ -71,13 +71,13 @@ $ git clone https://github.com/joaofnetojfn/dtmoney.git
 
 ```bash
 # Vá para a pasta web
-$ cd ignite-temp
+$ cd dtmoney
 
 # Instale as depedencias
 $ yarn install
 
 # Rode a aplicação
-$ yarn dev
+$ yarn start
 
 # Rode o teste 
 $ yarn test
